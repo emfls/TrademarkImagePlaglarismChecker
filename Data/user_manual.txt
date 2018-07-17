@@ -1,0 +1,22 @@
+User Manual for 'Trademark Image Plagiarism Checker'
+Written by Joo-Ho Lee.
+
+Check 'README.TXT' before use.
+
+# To Check
+ 1) Click 'Open Image File' button.
+ 2) Select a image file. (*.jpg, *.jpeg, *.png)
+  - After you open a file, it will be copied in 'TestImage/' automatically.
+  - If it's not proper to check, the program will show an Error message.
+ 3) Click 'Start Checking' button.
+ 4) Checking will be start soon, log will be Auto Saved in 'Log/AutoSaved/' after Checking.
+
+
+# To Save Log into txt
+ 1) Click 'Save Log into txt' button.
+ 2) Select a location to save.
+ 3) Log will be saved in txt file, where you selected.
+
+# Initialize
+ - This is a function to clear 'Log Box' which is located in bottom and set a image into default image.
+
